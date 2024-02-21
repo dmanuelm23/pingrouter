@@ -16,7 +16,7 @@ Este proyecto fue creado con PHP versión 7.3.33, con Laravel Framework versión
 - Comando para ejecutar los ping manualmente php artisan ping:routers
 - APIs
 - http://127.0.0.1:8000/api/get-ping-routers    "Obtiene las ultimos registros de todos los routers guardados en cache"
-- http://127.0.0.1:8000/api/ip/142.251.218.142    "Obtiene todos los registros del router guadados en cache"
+- http://127.0.0.1:8000/api/ip/142.251.218.142    "Obtiene todos los registros del router por ip guadados en cache"
 - http://127.0.0.1:8000/api/ping/142.251.218.142    "Obtiene todos los resultados de una ip sin guardar en cache (adicional)" 
 
 Adicional
